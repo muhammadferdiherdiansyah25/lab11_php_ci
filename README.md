@@ -8,7 +8,7 @@ KELAS   : TI.20 D1
 
 MATA KUL: PEMOGRAMAN WEB 
 
-DOSEN   :
+DOSEN   : Agung Nugroho,S.Kom.,M.Kom
 
 # Buat folder baru dengan nama lab11_php_ci pada docroot webserver (htdocs)
 
